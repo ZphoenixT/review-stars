@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bread-co/static/css/main.086f8173.css",
+    "main.js": "/bread-co/static/js/main.9d49bb79.js",
+    "index.html": "/bread-co/index.html",
+    "main.086f8173.css.map": "/bread-co/static/css/main.086f8173.css.map",
+    "main.9d49bb79.js.map": "/bread-co/static/js/main.9d49bb79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086f8173.css",
+    "static/js/main.9d49bb79.js"
+  ]
+}
